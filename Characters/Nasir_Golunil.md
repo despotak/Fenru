@@ -1,6 +1,6 @@
 # Nasir Golunil
 
-![Sigil](/media/Sigil.png)
+![Sigil](/Media/Sigil.png)
 
 ## Stat Block
 
