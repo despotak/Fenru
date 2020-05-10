@@ -1,6 +1,6 @@
 # Nasir Golunil
 
-![Sigil](/Media/Sigil.png)
+![Sigil](https://github.com/despotak/Fenru/raw/master/Media/Sigil.png)
 
 ## Stat Block
 
